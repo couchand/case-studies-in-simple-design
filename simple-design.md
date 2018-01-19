@@ -218,7 +218,7 @@ Note:
 
 ## References
 
-- _The Art of Agile Development_, Shore & Warden
+- [_The Art of Agile Development_](http://www.jamesshore.com/Agile-Book/), Shore & Warden
   - Chapter 9 - Developing
 - _Domain-Driven Design_, Eric Evans
   - Chapter 10 - Supple Design
