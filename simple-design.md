@@ -71,16 +71,21 @@ Note:
 
 ### Dimensions of Simplicity
 
-- The interface (for users)
-- The implementation (for developers)
+- Interface vs. implementation
+- How to measure simplicity?
 - Others?
 
 Note:
-- sometimes seen at odds, e.g. if interface too:
-  - opaque - just hides the complexity
-  - porous - exposes the complexity
-- too much responsibility on one group or the other
-- local/global maxima
+- interface vs. implementation
+  - sometimes seen at odds, e.g. if interface too:
+    - opaque - just hides the complexity
+    - porous - exposes the complexity
+  - too much responsibility on one group or the other
+  - local/global maxima
+- measurement:
+  - files/classes/methods/lines
+  - cyclomatic complexity
+  - conceptual weight?
 
 
 
