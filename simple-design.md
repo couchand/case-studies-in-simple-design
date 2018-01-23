@@ -37,11 +37,20 @@ Note:
 
 ### Simple Design
 
-- Necessary Context
 - The Goal
+- Necessary Context
 - Dimensions of Simplicity
 - Application Notes
 - Some Caveats
+
+
+
+### The Goal
+
+- To make our systems:
+  - Easier to understand,
+  - Easier to use, and
+  - Easier to change.
 
 
 
@@ -57,15 +66,6 @@ Note:
 - make changes without fear
 - habit of refactoring
   - supple design
-
-
-
-### The Goal
-
-- To make our systems:
-  - Easier to understand,
-  - Easier to use, and
-  - Easier to change.
 
 
 
